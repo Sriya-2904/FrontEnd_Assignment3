@@ -1,4 +1,5 @@
-![feature](https://github.com/user-attachments/assets/9cef8b29-72fe-43e7-8026-cb88e62760f6)
+
+<img width="833" alt="Banner" src="https://github.com/user-attachments/assets/b766b7b9-8a20-476b-bc4d-b00e1fad7acd">
 
 # FrontEnd_Assignment3
 In this Repository, I have uploaded HTML file, CSS file, and Assets for a mini assignment. 
