@@ -7,4 +7,5 @@ The mini assignment is about Static and Basic Website Header Using HTML & CSS. 
 All in all, Fruitopia is considered as a mini assignment where we can learn how to make basic and elegant header page.
 
 You can find the explanation of what, and why these elements are used in the CSS in the medium article
+
 Medium: https://medium.com/@sriyasreerama_29/static-and-basic-website-header-using-html-css-384c1f4b32c0
